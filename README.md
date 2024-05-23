@@ -2,7 +2,7 @@
 
 Creado con Vite para el examen de Front end 3 de DH. Le puede chingar a veces la pagina, pero va. 
 
-(aca va a ir la imagen cuando se suba)
+![(img del proyecto)](https://github.com/atomiclab/ParcialTubaroFE3/blob/main/src/others/screenshot.jpeg)
 
 _ Consignas y requisitos de entrega
 La temática del formulario puede ser cualquiera de nuestra preferencia. Podemos solicitar información sobre música, animales, libros, autos, personajes o lo que deseemos.
